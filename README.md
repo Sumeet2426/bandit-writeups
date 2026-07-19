@@ -1,5 +1,9 @@
 # bandit-writeups
 
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Linux](https://img.shields.io/badge/Linux-Beginner--Advanced-blue)
+![Git](https://img.shields.io/badge/Git-Learning-orange)
+
 A structured collection of my solutions, notes, and key learnings from the **OverTheWire Bandit** wargame.
 
 > **Disclaimer**
