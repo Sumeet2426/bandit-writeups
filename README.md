@@ -1,40 +1,80 @@
 # bandit-writeups
-# Hi 👋 I'm Artic
 
-🎓B.Tech CSE Graduate
+A structured collection of my solutions, notes, and key learnings from the **OverTheWire Bandit** wargame.
 
-🔐 Aspiring Cybersecurity Analyst
+> **Disclaimer**
+> This repository is created for educational purposes only. Passwords and direct solutions are intentionally omitted. The focus is on understanding Linux, Git, networking, and cybersecurity concepts.
 
-## Currently Learning
+---
 
-- Linux
-- Python
+## About Bandit
+
+Bandit is a beginner-friendly Linux wargame created by **OverTheWire** to teach essential command-line skills and cybersecurity fundamentals through hands-on challenges.
+
+Throughout these levels, I learned how to investigate systems, enumerate environments, and solve security-related problems using Linux tools.
+
+---
+
+## Skills Covered
+
+- Linux Command Line
+- Bash Scripting
+- SSH
+- File Permissions
+- File Compression
 - Networking
-- SOC Operations
-- Web Security
-- Digital Forensics
+- Netcat
+- Cron Jobs
+- Environment Variables
+- Shell Escapes
+- Git Fundamentals
+- Linux Enumeration
+- Problem Solving
 
-## Completed
+---
 
-✅ OverTheWire Bandit
+## Repository Structure
 
-## Current Labs
+```
+.
+├── Level00.md
+├── Level01.md
+├── Level02.md
+...
+└── Level34.md
+```
 
-- OverTheWire Natas
-- TryHackMe
-- PortSwigger Academy
+Each write-up contains:
 
-## Tech Stack
+- Objective
+- Enumeration
+- Commands Used
+- Explanation
+- Key Learning
+- Real-world Concept
 
-- Linux
-- Python
-- Git
+---
+
+## Tools Used
+
+- Kali Linux
 - Bash
-- Wireshark
-- Nmap
-- Burp Suite
+- SSH
+- Git
+- Netcat
+- Vim
+- Core Linux Utilities
 
-## Connect
+---
 
-LinkedIn: https://www.linkedin.com/in/sumeet-malviya24/
-Email: sumeetmalviya08@gmail.com
+## Learning Outcome
+
+Completing Bandit strengthened my understanding of Linux systems and helped me develop an investigation-first approach to solving cybersecurity challenges.
+
+---
+
+## Author
+
+**Artic**
+
+Aspiring Cybersecurity Analyst
