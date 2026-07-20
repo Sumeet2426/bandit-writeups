@@ -41,11 +41,11 @@ Throughout these levels, I learned how to investigate systems, enumerate environ
 
 ```
 .
-├── Level00.md
-├── Level01.md
-├── Level02.md
+├── 0-Level0-1.md
+├── 1-Level1-2.md
+├── 2-Level2-3.md
 ...
-└── Level34.md
+└── 33-Level33-34.md
 ```
 
 Each write-up contains:
